@@ -1,0 +1,22 @@
+# Datatypes (such as objects)
+EasySim800l 	KEYWORD1
+
+#Methods / functions
+begin		KEYWORD2
+getBatteryPer	KEYWORD2
+initGPRS	KEYWORD2
+disconGPRS	KEYWORD2
+getIP		KEYWORD2
+postJson	KEYWORD2
+getJson		KEYWORD2
+getJsonString	KEYWORD2
+RSSI		KEYWORD2
+disconnect	KEYWORD2
+goToSleep	KEYWORD2
+
+# Constants
+Connected	KEYWORD3
+gprs		KEYWORD3
+sleep		KEYWORD3
+APN		KEYWORD3
+
